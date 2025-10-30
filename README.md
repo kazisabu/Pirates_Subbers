@@ -41,7 +41,7 @@ Pirates_Subbers scrapes multiple **publicly accessible services** for subdomain 
 ## ⚓ Installation
 
 ```bash
-git clone https://github.com/yourusername/Pirates_Subbers.git
+git clone https://github.com/kazisabu/Pirates_Subbers.git
 cd Pirates_Subbers
 chmod +x Pirates_Subbers.sh
 ```
