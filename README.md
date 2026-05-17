@@ -40,8 +40,10 @@ Pirate-Subz is engineered with three distinct operational modes to optimize your
    ```bash
    git clone https://github.com/kazisabu/Pirates_Subbers.git
    cd Pirate_Subbers
-   chmod +x Pirate_Subbers.sh
+   chmod +x Pirate_Subbers.sh installer.sh
+   ./installer.sh
    ./Pirate_Subbers.sh
+   
    ```
 2. **Configure**: Open `config.txt` and add your API keys for Chaos, Shodan, and GitHub to maximize results.
 3. **DNS Resolvers**: Ensure `resolvers.txt` is updated for accurate `Puredns` results.
